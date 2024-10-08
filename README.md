@@ -1,1 +1,1 @@
-https://osmnr.github.io/goit-markup-hw-05/
+https://osmnr.github.io/goit-markup-hw-06/
